@@ -143,3 +143,12 @@ input:checked ~ .sidebar{
     color: whitesmoke;
     font-weight: bold;
 }
+
+.redesocial-item{
+    margin: 1rem;
+}
+
+.redesocial-item a button img{
+    height: 20px;
+    margin-left: 0;
+}
