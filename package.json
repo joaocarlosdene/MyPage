@@ -1,0 +1,25 @@
+{
+  "name": "MyPage",
+  "version": "1.0.0",
+  "description": "#About the Project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaocarlosdene/MyPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaocarlosdene/MyPage/issues"
+  },
+  "homepage": "https://github.com/joaocarlosdene/MyPage#readme",
+  "dependencies": {
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
