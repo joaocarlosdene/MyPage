@@ -8,3 +8,15 @@ $(document).ready(function() {
         event.stopPropagation();
     });
 });
+
+/*--------------------MENU RESPONSIVO--------------------------------*/
+
+let show = true
+
+const menuSection = document.querySelector(".menu-section")
+const hamburguer = menuSection.querySelector(".hamburguer")
+
+hamburguer.addEventListener("click", function(){
+    menuSection.classList.toggle("on", show)
+    show = !show
+})
