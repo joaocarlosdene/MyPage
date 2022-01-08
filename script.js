@@ -1,3 +1,4 @@
+//------------------PAGINA INDEX.HTML-------------------------------
 $(document).ready(function() {
  var botao = $('.menu-link');
  var dropDown = $('.sub-menu');    
