@@ -222,12 +222,14 @@ header{
 }
 .menu-section.on .hamburguer .one{
     transform: rotate(45deg) translate(7px, 7px);
+    transition-duration: 1s;
 }
 .menu-section.on .hamburguer .two{
     opacity: 0;
 }
 .menu-section.on .hamburguer .three{
     transform: rotate(-45deg) translate(8px, -9px);
+    transition-duration: 1s;
 }
 .menu-section.on nav .menu{
     top: 70px;
