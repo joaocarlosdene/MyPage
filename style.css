@@ -273,3 +273,14 @@ header{
     width: 80%;
 }
 }
+@media (max-width:300px){
+    .info{
+        top: 10%;
+    }
+    .info h1{
+        font-size: 1.2rem;
+    }
+    .text{
+        font-size: 0.6rem;
+    }
+}
